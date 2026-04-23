@@ -53,7 +53,7 @@ I oversee the technical backbone of our agency's growth tools:
 ## 🤝 For Technical Partnerships & Scale
 Need high-level SEO integration or custom full-stack solutions? Connect with our core team:
 
-- **Founder:** Mike (@GMBSells-Dev)
+- **Founder:** Mike [@GMBSells-Dev](https://github.com/GMBSells-dev)
 - **Marketplace:** [gmbsells.com](https://gmbsells.com)
 - **Telegram Support:** [@GMBSells24](https://t.me/GMBSells24)
 - **Email:** gmbsells.info@gmail.com
